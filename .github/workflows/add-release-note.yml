@@ -1,4 +1,4 @@
-name: Add Release Note
+name: @accuweaty24
 run-name: 'Add Release Note (${{ inputs.type }}): ${{ inputs.message }}'
 
 on:
